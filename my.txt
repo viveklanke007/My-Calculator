@@ -1,3 +1,0 @@
-now I am inserting the text
-good morning this is a text file
-now I am modifying this file for working dir
